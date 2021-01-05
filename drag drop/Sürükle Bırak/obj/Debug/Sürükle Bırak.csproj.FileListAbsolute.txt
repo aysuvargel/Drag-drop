@@ -1,0 +1,9 @@
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\bin\Debug\Sürükle Bırak.exe.config
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\bin\Debug\Sürükle Bırak.exe
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\bin\Debug\Sürükle Bırak.pdb
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.csprojResolveAssemblyReference.cache
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle_Bırak.Form1.resources
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle_Bırak.Properties.Resources.resources
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.csproj.GenerateResource.Cache
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.exe
+C:\Users\Win_7\Desktop\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.pdb
